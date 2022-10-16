@@ -1,8 +1,18 @@
-# facemask_dectector
+# Face Mask Detector - An Artificial Intelligence Mobile Application developed by Flutter (Dart)
 
-Face Mask Detector - An Artificial Intelligence Mobile Application developed by Flutter (Dart)
+# Video Demonstration 
 
-Video Demonstration - [https://youtube.com/shorts/xcZjLSzvBTw]
+- [https://youtube.com/shorts/xcZjLSzvBTw]
+
+Follow the the instruction for run this code:
+
+1) Open the project file in your IDE.
+2) Before  run this project at first:
+        - Open 'pubspec.yaml' 
+        - Press the 'pub get' which will be shown on right top
+3) If your IDE setup is okay, then run & enjoy.
+
+##
 
 ## Getting Started
 
