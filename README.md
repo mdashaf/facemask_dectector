@@ -4,8 +4,8 @@
 ## Follow the the instruction for run this code:
 1) Open the project file in your IDE.
 2) Before  run this project at first:
-        1) Open 'pubspec.yaml' 
-        2) Press the 'pub get' which will be shown on right top
+        (1) Open 'pubspec.yaml' 
+        (2) Press the 'pub get' which will be shown on right top
 3) If your IDE setup is okay, then run & enjoy.
 ## Getting Started
 
