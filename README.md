@@ -6,11 +6,11 @@
 
 ##Follow the the instruction for run this code:
 
--Open the project file in your IDE.
--Before  run this project at first:
+1) Open the project file in your IDE.
+2) Before  run this project at first:
         - Open 'pubspec.yaml' 
         - Press the 'pub get' which will be shown on right top
--If your IDE setup is okay, then run & enjoy.
+3) If your IDE setup is okay, then run & enjoy.
 
 ##
 
