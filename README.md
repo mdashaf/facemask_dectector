@@ -1,6 +1,6 @@
 # facemask_dectector
 
-A new Flutter project.
+Face Mask Detector - An Artificial Intelligence Mobile Application developed by Flutter (Dart)
 
 ## Getting Started
 
